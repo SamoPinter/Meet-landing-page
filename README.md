@@ -4,15 +4,17 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
+- [Frontend Mentor - Meet landing page solution](#frontend-mentor---meet-landing-page-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
 
 
 
@@ -27,15 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
 Desktop
-[alt text](image.png)
+[Desktop image](image.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SamoPinter/meet-landing-page)
-- Live Site URL: [Add live site URL here](https://samopinter.github.io/meet-landing-page/)
+- Solution URL: [My solution](https://github.com/SamoPinter/meet-landing-page)
+- Live Site URL: [Mylive site URL](https://samopinter.github.io/meet-landing-page/)
 
 ## My process
 
@@ -59,5 +59,5 @@ I still need to work much more on responsive design.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SamoPinter)
+- Frontend Mentor - [@SamoPinter](https://www.frontendmentor.io/profile/SamoPinter)
 
