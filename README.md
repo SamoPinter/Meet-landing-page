@@ -29,10 +29,6 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-Mobile
-![alt text](image-1.png)
-Tablet
-![alt text](image-2.png)
 Desktop
 [alt text](image.png)
 
