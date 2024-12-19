@@ -34,8 +34,8 @@ Desktop
 
 ### Links
 
-- Solution URL: [My solution](https://github.com/SamoPinter/meet-landing-page)
-- Live Site URL: [Mylive site URL](https://samopinter.github.io/meet-landing-page/)
+- Solution URL: [My solution](https://github.com/SamoPinter/Meet-landing-page)
+- Live Site URL: [Mylive site URL](https://samopinter.github.io/Meet-landing-page/)
 
 ## My process
 
